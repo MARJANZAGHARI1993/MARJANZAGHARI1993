@@ -25,14 +25,6 @@ Benvenuto nel mio profilo GitHub! Sono uno sviluppatore software con esperienza 
 
 ![Statistiche GitHub di Marjan](https://github-readme-stats.vercel.app/api?username=MARJANZAGHARI1993&show_icons=true&theme=radical)
 
-## 🌟 Progetti
-
-Ecco alcuni dei miei progetti preferiti:
-
-- https://github.com/MARJANZAGHARI1993/Map23-24:progetto di gioco testuale in Java.
-- https://github.com/MARJANZAGHARI1993/Icon23-24: Sistema di Monitoraggio Ambientale e Controllo della Qualità
-dell'Aria basato sull'Inteligenza artificiali .
-
 ## 🌐 Connettiti con Me
 
 - [LinkedIn](https://www.linkedin.com/in/marjanzaghari/)
