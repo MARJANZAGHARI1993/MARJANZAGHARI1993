@@ -26,6 +26,9 @@ Benvenuto nel mio profilo GitHub! Sono uno sviluppatore software con esperienza 
 ![alt text](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![alt text](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![alt text](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![alt text](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 ## 📈 Statistiche GitHub
 
