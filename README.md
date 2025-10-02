@@ -1,10 +1,10 @@
-# Ciao, sono Marjan Zaghari! 👋
+# Ciao, sono Marjan ! 👋
 
 Benvenuto nel mio profilo GitHub! Sono uno sviluppatore software con esperienza in vari linguaggi di programmazione e tecnologie. Sono appassionato di coding e adoro lavorare su progetti innovativi e dinamici.
 
 ## 🚀 Chi sono
 
-- 🌱 Attualmente sto continuando a migliorare le mie competenze in Java (Spring), Python (Django), HTML, CSS, JavaScript e SQL.
+- 🌱 Attualmente sto continuando a migliorare le mie competenze in Java (Spring), Python (Django), .Net , HTML, CSS, JavaScript e SQL.
 - 🔭 Sono alla ricerca di opportunità per lavorare su progetti innovativi nel campo dello sviluppo web e software.
 - 💬 Chiedimi pure informazioni su Java, Python, sviluppo web e database.
 - 📫 Come contattarmi: [zagharimarjan@gmail.com]
